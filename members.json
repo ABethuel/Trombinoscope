@@ -1,0 +1,131 @@
+[
+  {
+    "id": "1",
+    "name": "Antoine Faust",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "antoine.faust@eleve.isep.fr",
+    "tel": "06 51 28 47 83",
+    "classe": "I1"
+  },
+  {
+    "id": "2",
+    "name": "Armand Bidault",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "bidaultarmand@gmail.com",
+    "tel": "07 82 27 17 70",
+    "classe": "I2"
+  },
+  {
+    "id": "3",
+    "name": "Baptiste Douchet",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "bdouchet92@gmail.com",
+    "tel": "06 72 73 59 46",
+    "classe": "I2"
+  },
+  {
+    "id": "4",
+    "name": "Benjamin Bordes",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "benjaminbordes06@gmail.com"
+  },
+  {
+    "id": "5",
+    "name": "Clement Chapurlat",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "clement@chapurlat.fr",
+    "tel": "06 85 99 48 91"
+  },
+  {
+    "id": "6",
+    "name": "Farah Abdelkhalek",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53152.png",
+    "email": "farah.abdelkhalek15@gmail.com",
+    "classe": "I2"
+  },
+  {
+    "id": "7",
+    "name": "Gauthier Itart-Longueville",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "itartlongueville.gauthier@gmail.com"
+  },
+  {
+    "id": "8",
+    "name": "Guylain",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "guma61268@eleve.isep.fr"
+  },
+  {
+    "id": "9",
+    "name": "Hadouin Leroy",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "hadouin.leroy@eleve.isep.fr",
+    "tel": "07 67 35 80 80"
+  },
+  {
+    "id": "10",
+    "name": "Hippolyte Bach",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "hippolyte@bach.fr",
+    "tel": "06 73 63 32 07"
+  },
+  {
+    "id": "11",
+    "name": "Julien Godfroy",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "julien.godfroy@isep.fr",
+    "classe": "I2"
+  },
+  {
+    "id": "12",
+    "name": "Maximilien-Marie Delorme",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "maximilienmarie.delorme@gmail.com",
+    "tel": "07 83 57 16 74"
+  },
+  {
+    "id": "13",
+    "name": "Mayet Lilian",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "lilianmayet2811@gmail.com",
+    "tel": "06 15 29 07 33"
+  },
+  {
+    "id": "14",
+    "name": "Nathan WEBER",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "nweber@juniorisep.com",
+    "tel": "06 60 61 04 54"
+  },
+  {
+    "id": "15",
+    "name": "Tristan Brankovic",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "trbr60645@eleve.isep.fr",
+    "tel": "07 67 35 80 80"
+  },
+  {
+    "id": "16",
+    "name": "Adrien Bethuel",
+    "statut": "Junior ISEP Académie",
+    "image": "https://image.flaticon.com/icons/png/512/53/53119.png",
+    "email": "adrienbethuel@gmail.com",
+    "tel": "06 64 18 80 99",
+    "classe": "I2"
+  }
+]
